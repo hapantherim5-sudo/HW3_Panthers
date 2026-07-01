@@ -1,5 +1,5 @@
 # HW3_Panthers
-
+##קישור למחברת - https://colab.research.google.com/drive/1wjukk2Py3b2KFLnIryZpTV46mEOyRA3v?usp=sharing  
 ## הוראות הרצה
 
 בהתאם למייל של נעמי, ניתן להריץ את הפרויקט גם ללא מפתחות Gemini ו־Firebase. במקרה כזה הממשק יעלה, אך תכונות ה־AI ושמירת הנתונים הקבועה לא יעבדו במלואן.
